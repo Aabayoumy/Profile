@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Ahmed Bayoumy
+N;CHARSET=UTF-8:Bayoumy;Ahmed;;;
+GENDER:M
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:abayoumy@outlook.com
+TEL;TYPE=CELL:+201099631331
+TITLE;CHARSET=UTF-8:Support Engeneer
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/abayoumy
+X-SOCIALPROFILE;TYPE=GitHub:https://github.com/Aabayoumy/Aabayoumy
+REV:2022-07-27T20:30:01.472Z
+END:VCARD
